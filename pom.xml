@@ -49,13 +49,5 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
-    <distributionmanagement>
-        <repository>
-            <id>test_repository</id>
-            <name>test_repository</name>
-            <url>http://35.200.191.62:8081/repository/test_repository/</url>
-        </repository>
-    </distributionmanagement>    
-    
+    </build>   
 </project>
