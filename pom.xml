@@ -50,4 +50,11 @@
             </plugin>
         </plugins>
     </build>   
+    <distributionManagement>
+  <repository>
+    <id>DebaRepo</id>
+      <name>DebaRepo</name>
+    <url>http://35.200.215.168:8081/nexus/content/repositories/DebaRepo</url>
+  </repository>
+</distributionManagement>
 </project>
